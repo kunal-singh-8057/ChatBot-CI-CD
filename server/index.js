@@ -20,6 +20,7 @@ app.use(cors({
 }));
 app.use("/api/v1/",userRouter);
 
+
 app.listen(`${PORT}`,()=>{
     console.log(`The server is running at http://localhost:${PORT}`)
 })
