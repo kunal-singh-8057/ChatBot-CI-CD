@@ -1,0 +1,97 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+
+.form1
+{
+    margin-left: 40%;
+    margin-top: 10%;
+}
+
+
+.form1 img
+{
+    margin-left:8%;
+    position: absolute;
+    margin-top: -3%;
+}
+
+
+
+.form1 h1
+{
+    margin-left: 3%;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+
+.form1 input
+{
+    margin-top: 5%;
+    height: 5vh;
+    width: 34%;
+    border-radius: 5px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+
+}
+
+
+
+
+.form1 button
+{
+    background-color: #0FA47F;
+    color: white;
+    padding: 10px 20px;
+    width: 35%;
+    border: none;
+    border-radius: 5px;
+    margin-top: 3%;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.form1 p
+{
+    margin-top: 2%;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+
+}
+
+.loglink
+{
+    text-decoration: none;
+    margin-left: 1%;
+    color: #0FA47F;
+}
+
+h5{
+    margin-left: 15%;
+}
+
+.direct
+{
+    position: absolute;
+}
+
+.visite
+{
+
+    position: absolute;
+    text-decoration: none;
+    margin-left: 14%;
+    color: #0FA47F;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}

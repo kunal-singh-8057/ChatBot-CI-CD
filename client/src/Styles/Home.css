@@ -1,0 +1,149 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.div1
+{
+    position: absolute;
+    background-color: #202123;
+    height: 100vh;
+    width: 15%;
+}
+
+
+.sets
+{
+position: absolute;
+margin-top: 255%;
+}
+
+
+.upgrade
+{
+    background-color: #343540;
+    margin-top: 15%;
+    color: white;
+    padding: 10px 67px;
+    position: absolute;
+    border: none;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  
+}
+
+.sets1
+{
+    margin-left: 1%;
+    margin-top: 25%;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    display: flex;
+    align-items: center;
+   
+}
+
+
+.sets1 img
+{
+    position: absolute;
+    margin-left: 25%;
+    width: 25%;
+}
+
+
+.sets1 p
+{
+
+    color: white;
+    display: flex;
+    margin-left: 95%;
+}
+
+
+.div2
+{
+    position: absolute;
+    background-color: #444654;
+    height: 100vh;
+    width:85%;
+    margin-left: 15%;
+}
+
+.div2 h1
+{
+    margin-left: 35%;
+    position: absolute;
+    font-size: 45px;
+    margin-top: 15%;
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+
+.search
+{
+    position: absolute;
+    margin-left: 15%;
+    margin-top: 25%;
+    height: 5vh;
+    background-color: #303139;
+    border-radius: 5%;
+    border: none;
+    width: 65%;
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+
+}
+
+.div2 img
+{
+    position: absolute;
+    margin-left: 75%;
+    margin-top: 26%;
+}
+
+.div2 p
+{
+    color: #9A9B9F;
+    position: absolute;
+    margin-left: 15%;
+    margin-top: 45%;
+}
+
+.linkone
+{
+    text-decoration: none;
+    color: white;
+    margin-left: 95%;
+}
+
+.resultarea
+{
+    position: absolute;
+    background-color: white;
+    overflow: hidden;
+    width: 35%;
+    height: 20%;
+    border-radius: 10px;
+    margin-left: 27%;
+    margin-top: 30%;
+}
+
+
+.resultarea textarea
+{
+    width: 80%;
+    margin-left: 8%;
+    height: 10vh;
+
+    
+}
+
